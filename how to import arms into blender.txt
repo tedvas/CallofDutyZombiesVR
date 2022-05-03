@@ -1,0 +1,14 @@
+this only works if it's directly from black ops 2
+
+to get them to scale set unit scale to 0.01
+
+set skeleton X rotation to -90
+
+to set origin point to hand keep 3D cursor in it's default location and set skeleton location to
+X = -0.417 m
+Y = 0.191 m
+Z = 0.349 m
+
+then set origin to 3D cursor
+
+for left arm set skeleton X rotation to 90 after setting origin

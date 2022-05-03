@@ -1,0 +1,7 @@
+go to Game\Binaries\Win64
+
+in that directory create a text document called steam_appid
+
+put the steam app ID in that text document
+
+test app ID = 480
