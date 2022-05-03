@@ -10,6 +10,11 @@ APlayerCharacter::APlayerCharacter()
 
 	// non VR is only for testing
 	VR = true;
+
+	bReplicates = true;
+
+	NetUpdateFrequency = 66.0f;
+	MinNetUpdateFrequency = 33.0f;
 }
 
 // Called when the game starts or when spawned
