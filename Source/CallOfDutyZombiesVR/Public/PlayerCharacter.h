@@ -21,6 +21,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	bool VR;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	bool CanMove;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

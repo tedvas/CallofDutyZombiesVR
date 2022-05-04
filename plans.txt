@@ -1,0 +1,1 @@
+- for grabbing and pulling trigger use input AXIS and have a branch checking that scale != 0

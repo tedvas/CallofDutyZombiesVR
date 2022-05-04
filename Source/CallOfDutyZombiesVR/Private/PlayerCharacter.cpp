@@ -11,6 +11,8 @@ APlayerCharacter::APlayerCharacter()
 	// non VR is only for testing
 	VR = true;
 
+	CanMove = true;
+
 	bReplicates = true;
 
 	NetUpdateFrequency = 66.0f;
