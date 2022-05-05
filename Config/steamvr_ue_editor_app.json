@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.callofdutyzombiesvr-19764885.unrealeditor.exe",
+			"app_key": "application.generated.ue.call-of-duty-zombies-vr-19764885.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Unreal Engine Projects/CallOfDutyZombiesVR/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "CallOfDutyZombiesVR-19764885 [UE Editor]"
+					"name": "Call of Duty Zombies VR-19764885 [UE Editor]"
 				}
 			}
 		}
