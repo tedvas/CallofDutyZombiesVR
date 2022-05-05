@@ -2135,135 +2135,147 @@
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 2134
 "C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/StarterContent/Maps/Advanced_Lighting.uexp" 2135
 "C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/StarterContent/Maps/Advanced_Lighting.umap" 2136
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Textures/T_Grid.ubulk" 2137
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Textures/T_Grid.uasset" 2138
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Textures/T_Grid.uexp" 2139
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 2140
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 2141
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 2142
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 2143
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/M_GridRotation.uasset" 2144
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/M_GridRotation.uexp" 2145
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Grid_Accent.uasset" 2146
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Grid_Accent.uexp" 2147
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Grid_Default.uasset" 2148
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Grid_Default.uexp" 2149
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.ubulk" 2150
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 2151
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uexp" 2152
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 2153
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uexp" 2154
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 2155
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uexp" 2156
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.ubulk" 2157
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 2158
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uexp" 2159
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset" 2160
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uexp" 2161
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_Cube.ubulk" 2162
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 2163
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 2164
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level_BuiltData.ubulk" 2165
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level_BuiltData.uasset" 2166
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level_BuiltData.uexp" 2167
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Materials/M_Solid.uasset" 2168
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Materials/M_Solid.uexp" 2169
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset" 2170
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Materials/MI_Solid_Blue.uexp" 2171
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_ChamferCube.ubulk" 2172
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset" 2173
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_ChamferCube.uexp" 2174
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2175
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 2176
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 2177
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uexp" 2178
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.ubulk" 2179
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 2180
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uexp" 2181
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire01.ubulk" 2182
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire01.uasset" 2183
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire01.uexp" 2184
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire_Cue.uasset" 2185
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire_Cue.uexp" 2186
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 2187
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 2188
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 2189
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 2190
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 2191
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 2192
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_N.uasset" 2193
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_N.uexp" 2194
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 2195
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 2196
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 2197
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 2198
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 2199
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 2200
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 2201
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 2202
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 2203
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 2204
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 2205
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 2206
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 2207
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 2208
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 2209
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 2210
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 2211
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 2212
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_M.uasset" 2213
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_M.uexp" 2214
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 2215
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 2216
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 2217
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 2218
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/M_FPGun.uasset" 2219
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/M_FPGun.uexp" 2220
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset" 2221
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun_Physics.uexp" 2222
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun.uasset" 2223
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun.uexp" 2224
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Haptics/PistolFireHapticEffect.uasset" 2225
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Haptics/PistolFireHapticEffect.uexp" 2226
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/M_Projectile.uasset" 2227
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/M_Projectile.uexp" 2228
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Projectile.uasset" 2229
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Projectile.uexp" 2230
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Projectile.uasset" 2231
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Projectile.uexp" 2232
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Pistol.uasset" 2233
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Pistol.uexp" 2234
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/RT_VRSpectator.uasset" 2235
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/RT_VRSpectator.uexp" 2236
-"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 2237
-"../../../Engine/Content/EditorResources/MatineeCam_D.uexp" 2238
-"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 2239
-"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uexp" 2240
-"../../../Engine/Content/EditorMeshes/MatineeCam_SM.ubulk" 2241
-"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 2242
-"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uexp" 2243
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/EVRSpectatorMode.uasset" 2244
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/EVRSpectatorMode.uexp" 2245
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/VRSpectator.uasset" 2246
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/VRSpectator.uexp" 2247
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level.uexp" 2248
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level.umap" 2249
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/player_blueprints/CODZVR_game_instance.uasset" 2250
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/player_blueprints/CODZVR_game_instance.uexp" 2251
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font.uexp" 2252
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font.uasset" 2253
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font.ufont" 2254
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font_Font.uasset" 2255
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font_Font.uexp" 2256
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/BO2_font.uasset" 2257
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/BO2_font.uexp" 2258
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/choose_map.uasset" 2259
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/choose_map.uexp" 2260
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/main_menu.uasset" 2261
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/main_menu.uexp" 2262
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/main_menu_level.uexp" 2263
-"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/main_menu_level.umap" 2264
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2265
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 2266
-"../../../Engine/Content/Maps/Entry.uexp" 2267
-"../../../Engine/Content/Maps/Entry.umap" 2268
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/loading_screen.uasset" 2137
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/loading_screen.uexp" 2138
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/player_blueprints/CODZVR_game_instance.uasset" 2139
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/player_blueprints/CODZVR_game_instance.uexp" 2140
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_persistent_level.uexp" 2141
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_persistent_level.umap" 2142
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Textures/T_Grid.ubulk" 2143
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Textures/T_Grid.uasset" 2144
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Textures/T_Grid.uexp" 2145
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 2146
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 2147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 2148
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 2149
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/M_GridRotation.uasset" 2150
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/M_GridRotation.uexp" 2151
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Grid_Accent.uasset" 2152
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Grid_Accent.uexp" 2153
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Grid_Default.uasset" 2154
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Grid_Default.uexp" 2155
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.ubulk" 2156
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 2157
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uexp" 2158
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 2159
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uexp" 2160
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 2161
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uexp" 2162
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.ubulk" 2163
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 2164
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uexp" 2165
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset" 2166
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uexp" 2167
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_Cube.ubulk" 2168
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 2169
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 2170
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level_BuiltData.ubulk" 2171
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level_BuiltData.uasset" 2172
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level_BuiltData.uexp" 2173
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Materials/M_Solid.uasset" 2174
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Materials/M_Solid.uexp" 2175
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset" 2176
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Materials/MI_Solid_Blue.uexp" 2177
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_ChamferCube.ubulk" 2178
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset" 2179
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/LevelPrototyping/Meshes/SM_ChamferCube.uexp" 2180
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 2181
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 2182
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 2183
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uexp" 2184
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.ubulk" 2185
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 2186
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uexp" 2187
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire01.ubulk" 2188
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire01.uasset" 2189
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire01.uexp" 2190
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire_Cue.uasset" 2191
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Audio/Fire_Cue.uexp" 2192
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 2193
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 2194
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 2195
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 2196
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 2197
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 2198
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_N.uasset" 2199
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_N.uexp" 2200
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 2201
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 2202
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 2203
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 2204
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 2205
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 2206
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 2207
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 2208
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 2209
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 2210
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 2211
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 2212
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 2213
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 2214
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 2215
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 2216
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 2217
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 2218
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_M.uasset" 2219
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Textures/T_FPGun_M.uexp" 2220
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 2221
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 2222
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 2223
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 2224
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/M_FPGun.uasset" 2225
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Materials/M_FPGun.uexp" 2226
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset" 2227
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun_Physics.uexp" 2228
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun.uasset" 2229
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/FPWeapon/Mesh/SK_FPGun.uexp" 2230
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Haptics/PistolFireHapticEffect.uasset" 2231
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Haptics/PistolFireHapticEffect.uexp" 2232
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/M_Projectile.uasset" 2233
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/M_Projectile.uexp" 2234
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Projectile.uasset" 2235
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Materials/MI_Projectile.uexp" 2236
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Projectile.uasset" 2237
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Projectile.uexp" 2238
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Pistol.uasset" 2239
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRTemplate/Blueprints/Pistol.uexp" 2240
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/RT_VRSpectator.uasset" 2241
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/RT_VRSpectator.uexp" 2242
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 2243
+"../../../Engine/Content/EditorResources/MatineeCam_D.uexp" 2244
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 2245
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uexp" 2246
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.ubulk" 2247
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 2248
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uexp" 2249
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/EVRSpectatorMode.uasset" 2250
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/EVRSpectatorMode.uexp" 2251
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/VRSpectator.uasset" 2252
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/VRSpectator/VRSpectator.uexp" 2253
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level.uexp" 2254
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/tutorial_level.umap" 2255
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font.uexp" 2256
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font.uasset" 2257
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font.ufont" 2258
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font_Font.uasset" 2259
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/Black_Ops_2_Font_Font.uexp" 2260
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/BO2_font.uasset" 2261
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/assets/BO2_font.uexp" 2262
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/choose_map.uasset" 2263
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/choose_map.uexp" 2264
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/play_menu.uasset" 2265
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/play_menu.uexp" 2266
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/server.uasset" 2267
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/server.uexp" 2268
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/server_browser.uasset" 2269
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/server_browser.uexp" 2270
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/main_menu.uasset" 2271
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/main_menu.uexp" 2272
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/failed_to_join_session.uasset" 2273
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/UI/failed_to_join_session.uexp" 2274
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/main_menu_level.uexp" 2275
+"C:/Unreal Engine Projects/CallOfDutyZombiesVR/Content/levels/main_menu_level.umap" 2276
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 2277
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 2278
+"../../../Engine/Content/Maps/Entry.uexp" 2279
+"../../../Engine/Content/Maps/Entry.umap" 2280
