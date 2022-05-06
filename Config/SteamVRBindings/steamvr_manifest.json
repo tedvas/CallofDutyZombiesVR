@@ -164,11 +164,15 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/jump",
+			"name": "/actions/main/in/MenuToggleLeft",
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/menu click right",
+			"name": "/actions/main/in/MenuToggleRight",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/jump",
 			"type": "boolean"
 		},
 		{
@@ -221,6 +225,22 @@
 		},
 		{
 			"name": "/actions/main/in/MovementAxisRight_Y axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/move forward non vr axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/move right non vr axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/turn non vr axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/look up non vr axis",
 			"type": "vector1"
 		}
 	],
@@ -468,8 +488,9 @@
 			"/actions/main/in/GrabRight": "GrabRight",
 			"/actions/main/in/TriggerLeft": "TriggerLeft",
 			"/actions/main/in/TriggerRight": "TriggerRight",
+			"/actions/main/in/MenuToggleLeft": "MenuToggleLeft",
+			"/actions/main/in/MenuToggleRight": "MenuToggleRight",
 			"/actions/main/in/jump": "jump",
-			"/actions/main/in/menu click right": "menu click right",
 			"/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d": "MovementAxisLeft",
 			"/actions/main/in/GrabAxisLeft axis": "GrabAxisLeft",
 			"/actions/main/in/TriggerAxisLeft axis": "TriggerAxisLeft",
@@ -483,6 +504,10 @@
 			"/actions/main/in/SpectatorMoveUp axis": "SpectatorMoveUp",
 			"/actions/main/in/MovementAxisRight_X,MovementAxisRight_Y X Y_axis2d": "MovementAxisRight",
 			"/actions/main/in/MovementAxisRight_Y axis": "MovementAxisRight_Y",
+			"/actions/main/in/move forward non vr axis": "move forward non vr",
+			"/actions/main/in/move right non vr axis": "move right non vr",
+			"/actions/main/in/turn non vr axis": "turn non vr",
+			"/actions/main/in/look up non vr axis": "look up non vr",
 			"/actions/main": "Main Game Actions"
 		}
 	]

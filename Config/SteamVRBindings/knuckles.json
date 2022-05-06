@@ -52,6 +52,28 @@
 					}
 				},
 				{
+					"mode": "joystick",
+					"path": "/user/hand/left/input/thumbstick",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/MenuToggleLeft"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
+					"path": "/user/hand/right/input/thumbstick",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/MenuToggleRight"
+						}
+					}
+				},
+				{
 					"mode": "button",
 					"path": "/user/hand/right/input/a",
 					"inputs":
@@ -59,17 +81,6 @@
 						"click":
 						{
 							"output": "/actions/main/in/jump"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/menu click right"
 						}
 					}
 				},
@@ -173,5 +184,5 @@
 			]
 		}
 	},
-	"description": "CallOfDutyZombiesVR-19764885"
+	"description": "Call of Duty Zombies VR-19764885"
 }
