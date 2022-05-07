@@ -164,14 +164,6 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/MenuToggleLeft",
-			"type": "boolean"
-		},
-		{
-			"name": "/actions/main/in/MenuToggleRight",
-			"type": "boolean"
-		},
-		{
 			"name": "/actions/main/in/jump",
 			"type": "boolean"
 		},
@@ -193,30 +185,6 @@
 		},
 		{
 			"name": "/actions/main/in/GrabAxisRight axis",
-			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/SpectatorYaw axis",
-			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/SpectatorPitch axis",
-			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/SpectatorFOV axis",
-			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/SpectatorMoveForward axis",
-			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/SpectatorMoveRight axis",
-			"type": "vector1"
-		},
-		{
-			"name": "/actions/main/in/SpectatorMoveUp axis",
 			"type": "vector1"
 		},
 		{
@@ -488,20 +456,12 @@
 			"/actions/main/in/GrabRight": "GrabRight",
 			"/actions/main/in/TriggerLeft": "TriggerLeft",
 			"/actions/main/in/TriggerRight": "TriggerRight",
-			"/actions/main/in/MenuToggleLeft": "MenuToggleLeft",
-			"/actions/main/in/MenuToggleRight": "MenuToggleRight",
 			"/actions/main/in/jump": "jump",
 			"/actions/main/in/MovementAxisLeft_X,MovementAxisLeft_Y X Y_axis2d": "MovementAxisLeft",
 			"/actions/main/in/GrabAxisLeft axis": "GrabAxisLeft",
 			"/actions/main/in/TriggerAxisLeft axis": "TriggerAxisLeft",
 			"/actions/main/in/TriggerAxisRight axis": "TriggerAxisRight",
 			"/actions/main/in/GrabAxisRight axis": "GrabAxisRight",
-			"/actions/main/in/SpectatorYaw axis": "SpectatorYaw",
-			"/actions/main/in/SpectatorPitch axis": "SpectatorPitch",
-			"/actions/main/in/SpectatorFOV axis": "SpectatorFOV",
-			"/actions/main/in/SpectatorMoveForward axis": "SpectatorMoveForward",
-			"/actions/main/in/SpectatorMoveRight axis": "SpectatorMoveRight",
-			"/actions/main/in/SpectatorMoveUp axis": "SpectatorMoveUp",
 			"/actions/main/in/MovementAxisRight_X,MovementAxisRight_Y X Y_axis2d": "MovementAxisRight",
 			"/actions/main/in/MovementAxisRight_Y axis": "MovementAxisRight_Y",
 			"/actions/main/in/move forward non vr axis": "move forward non vr",

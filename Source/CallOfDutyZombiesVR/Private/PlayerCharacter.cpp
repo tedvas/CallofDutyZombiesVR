@@ -11,6 +11,8 @@ APlayerCharacter::APlayerCharacter()
 	// non VR is only for testing
 	VR = true;
 
+	PlayerIndex = 0;
+	StartedMatch = false;
 	CanMove = true;
 
 	bReplicates = true;
@@ -37,4 +39,13 @@ void APlayerCharacter::Tick(float DeltaTime)
 void APlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
+}
+
+void APlayerCharacter::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
+{
+	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
+
+	DOREPLIFETIME(APlayerCharacter, PlayerIndex);
+	DOREPLIFETIME(APlayerCharacter, StartedMatch);
+	DOREPLIFETIME(APlayerCharacter, CanMove);
 }

@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "VRCharacter.h"
+#include "Net/UnrealNetwork.h"
 #include "PlayerCharacter.generated.h"
 
 UCLASS()
@@ -21,7 +22,13 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	bool VR;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
+	int PlayerIndex;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
+	bool StartedMatch;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
 	bool CanMove;
 
 protected:
