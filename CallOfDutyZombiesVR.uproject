@@ -76,6 +76,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "InterchangeEditor",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
