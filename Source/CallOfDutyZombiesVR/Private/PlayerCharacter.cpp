@@ -1,6 +1,7 @@
 // Everything in this project was initially developed by Treyarch and Activision, I'm simply porting it to VR
 
 #include "PlayerCharacter.h"
+#include "TimerManager.h"
 
 // Sets default values
 APlayerCharacter::APlayerCharacter()
@@ -14,11 +15,41 @@ APlayerCharacter::APlayerCharacter()
 	PlayerIndex = 0;
 	StartedMatch = false;
 	CanMove = true;
+	CanJump1 = true;
+	RobotEjectTeleportTime = 2.0f;
+	RobotEjectLandTime = 5.0f;
 
 	bReplicates = true;
 
 	NetUpdateFrequency = 66.0f;
 	MinNetUpdateFrequency = 33.0f;
+}
+
+void APlayerCharacter::EjectFromOriginsRobot()
+{
+	EjectFromOriginsRobot_BP();
+	
+	CanMove = false;
+	CanJump1 = false;
+
+	GetWorldTimerManager().SetTimer(RobotEjectDelay, this, &APlayerCharacter::TeleportAfterRobotEject, RobotEjectTeleportTime, false, RobotEjectTeleportTime);
+}
+
+void APlayerCharacter::TeleportAfterRobotEject()
+{
+	TeleportAfterRobotEject_BP();
+
+	TeleportTo(RobotEjectTeleportLocaion, FRotator::ZeroRotator);
+
+	GetWorldTimerManager().SetTimer(RobotEjectDelay, this, &APlayerCharacter::LandAfterRobotEject, RobotEjectLandTime, false, RobotEjectLandTime);
+}
+
+void APlayerCharacter::LandAfterRobotEject()
+{
+	TeleportTo(RobotEjectLandLocation, FRotator::ZeroRotator);
+
+	CanMove = true;
+	CanJump1 = true;
 }
 
 // Called when the game starts or when spawned
@@ -48,4 +79,5 @@ void APlayerCharacter::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& Out
 	DOREPLIFETIME(APlayerCharacter, PlayerIndex);
 	DOREPLIFETIME(APlayerCharacter, StartedMatch);
 	DOREPLIFETIME(APlayerCharacter, CanMove);
+	DOREPLIFETIME(APlayerCharacter, CanJump1);
 }

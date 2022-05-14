@@ -19,6 +19,21 @@ public:
 	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
 	void BeginPlay_BP();
 
+	UFUNCTION(BlueprintCallable)
+	void EjectFromOriginsRobot();
+
+	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
+	void EjectFromOriginsRobot_BP();
+
+	UFUNCTION(BlueprintCallable)
+	void TeleportAfterRobotEject();
+
+	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
+	void TeleportAfterRobotEject_BP();
+
+	UFUNCTION(BlueprintCallable)
+	void LandAfterRobotEject();
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	bool VR;
 
@@ -31,9 +46,31 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
 	bool CanMove;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
+	bool CanJump1;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	FVector RobotEjectMoveToLocation;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	FVector RobotEjectTeleportLocaion;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	FVector RobotEjectLandLocation;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float RobotEjectTeleportTime;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float RobotEjectLandTime;
+
+	FTimerHandle Delay;
+
+	FTimerHandle RobotEjectDelay;
 
 public:
 	// Called every frame
