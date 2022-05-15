@@ -18,7 +18,7 @@ APlayerCharacter::APlayerCharacter()
 	CanJump1 = true;
 	RobotEjectTeleportTime = 2.0f;
 	RobotEjectLandTime = 5.0f;
-
+	
 	bReplicates = true;
 
 	NetUpdateFrequency = 66.0f;
