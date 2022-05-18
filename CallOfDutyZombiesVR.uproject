@@ -81,6 +81,10 @@
 		{
 			"Name": "InterchangeEditor",
 			"Enabled": false
+		},
+		{
+			"Name": "CodeEditor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
