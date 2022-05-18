@@ -1,3 +1,1 @@
-to test in VR set VR BP to true on begin play and on create widget and remove widget functions get rid of the if statement that checks if VR is true
-
-to test for non VR do the opposite
+to test in VR set VR BP to true on begin play
