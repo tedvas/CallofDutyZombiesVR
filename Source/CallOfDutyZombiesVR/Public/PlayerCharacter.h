@@ -37,6 +37,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	bool VR;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	int ComfortSetting;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
 	int PlayerIndex;
 

@@ -18,6 +18,9 @@ APlayerCharacter::APlayerCharacter()
 	CanJump1 = true;
 	RobotEjectTeleportTime = 2.0f;
 	RobotEjectLandTime = 5.0f;
+
+	// 0 = none // 1 = moderate // 2 = comfortable
+	ComfortSetting = 0;
 	
 	bReplicates = true;
 
@@ -39,6 +42,7 @@ void APlayerCharacter::TeleportAfterRobotEject()
 {
 	TeleportAfterRobotEject_BP();
 
+	NotifyOfTeleport(true);
 	TeleportTo(RobotEjectTeleportLocaion, FRotator::ZeroRotator);
 
 	GetWorldTimerManager().SetTimer(RobotEjectDelay, this, &APlayerCharacter::LandAfterRobotEject, RobotEjectLandTime, false, RobotEjectLandTime);
@@ -46,6 +50,7 @@ void APlayerCharacter::TeleportAfterRobotEject()
 
 void APlayerCharacter::LandAfterRobotEject()
 {
+	NotifyOfTeleport(true);
 	TeleportTo(RobotEjectLandLocation, FRotator::ZeroRotator);
 
 	CanMove = true;
