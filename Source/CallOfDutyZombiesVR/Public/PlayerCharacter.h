@@ -20,6 +20,12 @@ public:
 	void BeginPlay_BP();
 
 	UFUNCTION(BlueprintCallable)
+	void GivePerk(int Perk);
+
+	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
+	void GivePerk_BP(int Perk);
+
+	UFUNCTION(BlueprintCallable)
 	void EjectFromOriginsRobot();
 
 	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent)
@@ -42,6 +48,12 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
 	int PlayerIndex;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
+	int Health;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
+	int MaxHealth;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
 	bool StartedMatch;

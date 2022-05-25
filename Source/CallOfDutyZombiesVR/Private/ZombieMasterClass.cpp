@@ -8,6 +8,9 @@ AZombieMasterClass::AZombieMasterClass()
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	ZombieMesh = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("Zombie Mesh"));
+	RootComponent = ZombieMesh;
+
 	bReplicates = true;
 
 	NetUpdateFrequency = 66.0f;

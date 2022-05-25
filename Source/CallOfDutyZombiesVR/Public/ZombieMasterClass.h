@@ -4,7 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Components/SkeletalMeshComponent.h"
 #include "ZombieMasterClass.generated.h"
+
+class USkeletalMeshComponent;
 
 UCLASS()
 class CALLOFDUTYZOMBIESVR_API AZombieMasterClass : public ACharacter
@@ -14,6 +17,9 @@ class CALLOFDUTYZOMBIESVR_API AZombieMasterClass : public ACharacter
 public:
 	// Sets default values for this character's properties
 	AZombieMasterClass();
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+	USkeletalMeshComponent* ZombieMesh;
 
 protected:
 	// Called when the game starts or when spawned

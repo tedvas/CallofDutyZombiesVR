@@ -13,6 +13,8 @@ APlayerCharacter::APlayerCharacter()
 	VR = true;
 
 	PlayerIndex = 0;
+	Health = 100;
+	MaxHealth = 100;
 	StartedMatch = false;
 	CanMove = true;
 	CanJump1 = true;
@@ -26,6 +28,17 @@ APlayerCharacter::APlayerCharacter()
 
 	NetUpdateFrequency = 66.0f;
 	MinNetUpdateFrequency = 33.0f;
+}
+
+void APlayerCharacter::GivePerk(int Perk)
+{
+	GivePerk_BP(Perk);
+
+	if (Perk == 0)
+	{
+		MaxHealth = 250;
+		Health = Health + 150;
+	}
 }
 
 void APlayerCharacter::EjectFromOriginsRobot()
@@ -85,4 +98,6 @@ void APlayerCharacter::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& Out
 	DOREPLIFETIME(APlayerCharacter, StartedMatch);
 	DOREPLIFETIME(APlayerCharacter, CanMove);
 	DOREPLIFETIME(APlayerCharacter, CanJump1);
+	DOREPLIFETIME(APlayerCharacter, Health);
+	DOREPLIFETIME(APlayerCharacter, MaxHealth);
 }
