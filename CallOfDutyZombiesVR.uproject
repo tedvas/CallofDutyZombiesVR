@@ -85,6 +85,10 @@
 		{
 			"Name": "CodeEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

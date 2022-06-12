@@ -49,6 +49,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
 	int PlayerIndex;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	bool IsPaused;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Replicated)
 	int Health;
 

@@ -13,6 +13,7 @@ APlayerCharacter::APlayerCharacter()
 	VR = true;
 
 	PlayerIndex = 0;
+	IsPaused = false;
 	Health = 100;
 	MaxHealth = 100;
 	StartedMatch = false;
