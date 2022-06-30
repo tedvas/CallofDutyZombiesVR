@@ -5,7 +5,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "TimerManager.h"
 #include "Engine.h"
-#include "C:\Unreal Engine Projects\CallOfDutyZombiesVR\Source\CallOfDutyZombiesVR\CallOfDutyZombiesVR.h"
+#include "CallOfDutyZombiesVR/CallOfDutyZombiesVR.h"
 // for some reason it won't work unless you put the full file path for this file
 
 // Sets default values
