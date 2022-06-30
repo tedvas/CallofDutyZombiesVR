@@ -11,5 +11,7 @@ public class CallOfDutyZombiesVREditorTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "CallOfDutyZombiesVR" } );
+
+		bUsesSteam = true;
 	}
 }
