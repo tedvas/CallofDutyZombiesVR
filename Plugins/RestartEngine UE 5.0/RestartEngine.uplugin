@@ -4,21 +4,22 @@
 	"VersionName": "1.0",
 	"FriendlyName": "RestartEngine",
 	"Description": "When button is pressed engine will restart.",
-	"Category": "Other",
+	"Category": "Restart Engine",
 	"CreatedBy": "vster",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
+	"EngineVersion": "5.0.0",
 	"CanContainContent": false,
-	"IsBetaVersion": false,
-	"IsExperimentalVersion": false,
-	"Installed": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "RestartEngine",
 			"Type": "Editor",
 			"LoadingPhase": "Default"
 		}
-	]
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
 }
